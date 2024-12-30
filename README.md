@@ -1,6 +1,6 @@
 # React SSR Template
 
-A production-ready template for server-side rendering (SSR) with React and Vite.
+A production-ready template for building server-side rendered (SSR) React applications with Vite.
 
 ## Adding Packages
 
